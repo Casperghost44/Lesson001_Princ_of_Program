@@ -13,7 +13,8 @@ namespace Lesson001
             // Task5.Run();
             // Task6.Run();
             // Task7.Run();
-            Task8.Run();
+            // Task8.Run();
+            Task9.Run();
 
         }
     }
