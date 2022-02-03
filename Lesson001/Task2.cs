@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Lesson001
 {
-    class Task2
+    public static class Task2
     {
         public static void Run()
         {
